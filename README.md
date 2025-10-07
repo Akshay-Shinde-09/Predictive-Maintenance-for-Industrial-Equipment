@@ -1,1 +1,1 @@
-# Data Science Projects
+# Predictive Maintenance for Industrial Equipment
