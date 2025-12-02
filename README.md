@@ -1,4 +1,5 @@
 Predictive Maintenance for Industrial Equipment – Data Science Project
+
 📌 Overview
 
 This project aims to build a machine learning model that predicts equipment failure in industrial settings. Predictive maintenance helps reduce downtime, optimize maintenance schedules, and improve operational efficiency.
